@@ -1,6 +1,6 @@
 [component]
 name = "SigmaOS-apturl"
-description = "SigmaOS subsystem component for apturl"
+description = "apt:// URL handler"
 version = "0.1.0"
 tier = 3
 
